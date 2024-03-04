@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kozub0246@gmail.com**
 
-- ⚡ Fun fact **I love sports on a free time, have a pomeranian 🐶**
+- ⚡ Fun fact **I love sports on a free time, thrifting, vintage clothes and have a beautiful pomeranian 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
