@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artur-kozub" alt="artur-kozub" /></a> </p>
 
-- 🔭 I’m currently working on [Secret Message Telegram Bot](https://github.com/artur-kozub/secret-message)
+- 🔭 I’m currently working on [Chat App](https://github.com/artur-kozub/chatterbox-teamchallenge-backend)
 
-- 🌱 I’m currently learning **Express.js, Node, Postgres, Algorythms, Design Patterns**
+- 🌱 I’m currently learning **Nest.js, Algorythms, Design Patterns, Data Structures**
 
 - 👯 I’m looking to collaborate on **CRM (small) System for Photostudios**
 
