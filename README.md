@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js, libuv, undici, Pure Fabrication, Clean Architecture, OpenAI API**
 
-- 📫 You may reach me at **kozub0246@gmail.com** 
+- 📫 You may reach me at **kozub0246@gmail.com** or [LinkedIn](https://www.linkedin.com/in/arthur-kozub-b10494241)
 
 - ⚡ Fun fact **I love sports on a free time, thrifting, vintage clothes and have a pomeranian 🐶, dreaming about shiba 🐕**
 
